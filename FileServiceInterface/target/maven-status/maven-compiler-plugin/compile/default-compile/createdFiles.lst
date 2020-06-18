@@ -1,0 +1,3 @@
+com\assignment\fileService\FileServiceInterface\Runner.class
+com\assignment\fileService\FileServiceInterface\controller\FileService.class
+com\assignment\fileService\FileServiceInterface\exception\FileServiceErrorAdvice.class
