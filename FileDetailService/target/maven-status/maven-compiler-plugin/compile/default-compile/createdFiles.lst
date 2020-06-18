@@ -1,0 +1,4 @@
+com\assignment\fileDetail\FileDetailService\model\FileDetail.class
+com\assignment\fileDetail\FileDetailService\configuration\FileDetailConfiguration.class
+com\assignment\fileDetail\FileDetailService\service\FileDetailService.class
+com\assignment\fileDetail\FileDetailService\exception\FileDetailException.class
